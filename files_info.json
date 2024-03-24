@@ -1,0 +1,21 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": [
+    {
+      "filename": "测试版 Setup 6.0.2403212214.exe",
+      "filesize": "103MB",
+      "modtime": "2024-03-21 22:15:07"
+    },
+    {
+      "filename": "测试版 Setup 6.0.2403221415.exe",
+      "filesize": "107MB",
+      "modtime": "2024-03-22 14:46:58"
+    },
+    {
+      "filename": "测试版 Setup 6.0.2403230208.exe",
+      "filesize": "105MB",
+      "modtime": "2024-03-23 02:09:06"
+    }
+  ]
+}
